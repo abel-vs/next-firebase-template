@@ -2,7 +2,7 @@
 This is my template for web projects using Next.js, Tailwind CSS and Firebase.
 
 ## Firebase
-To connect it to [Firebase](https://firebase.com) you need to create a `.env.local` file in the root directory and add the following variables:
+To connect it to [Firebase](https://firebase.com) you need to create a `.env` file in the root directory and add the following variables:
 
 ```
 NEXT_PUBLIC_FIREBASE_API_KEY=
